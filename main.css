@@ -62,7 +62,7 @@ a:hover, a:active {
 .hero {
     position: relative;
     height: 100vh;
-    background: url('/task-imgs/task-imgs/slider-02.jpg') no-repeat center center/cover;
+    background: url('/my_begin_-portfolio/task-imgs/task-imgs/slider-02.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
